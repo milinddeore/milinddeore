@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Milind Deore, working as Vice President - Technology Innovation at Cardiotrack.
+- 👋 Hi, I’m Milind Deore, working founder of stealth AI startup.
 - 👀 I’m interested in, applied machine learning for structured as well as unstructured data.
 - 🌱 I’m currently learning blockchain and its nuances
 - 💞️ I’m looking to collaborate on Machine Learning, Blockchain.
